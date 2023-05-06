@@ -1,3 +1,3 @@
 <h1> Hello, Welcome to Simple DevOps Project !! </h1>
-<h1> testing app deployment into tomcat webservice githok </h1>
+<h1> testing app deployment into tomcat webservice githook </h1>
 
